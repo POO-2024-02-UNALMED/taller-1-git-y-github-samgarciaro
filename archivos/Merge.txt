@@ -1,0 +1,1 @@
+Debido a que subimos la carpeta "archivos" al repositorio en linea, podemos crear archivos desde GitHub
