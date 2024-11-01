@@ -1,1 +1,1 @@
-Samuel Garcia, 18, espero en esta materia poder aprender mucho acerca de la programacion orientada a objetos y sus aplicaciones
+Ya que subimos la carpeta archivos al repositorio, nos deja crear archivos desde GitHub dentro de la carpeta
